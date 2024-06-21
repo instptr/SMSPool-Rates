@@ -19,26 +19,26 @@ Before you begin, ensure you have the following installed:
 
 You can install the necessary Python libraries using pip:
 
-\```bash
+```bash
 pip install requests colorama
-\```
+```
 
 ## Configuration
 
 Set your SMSPool API key in the .env file:
 
-\```
+```
 API_KEY=key_here
-\```
+```
 To get a API KEY go to https://www.smspool.net/my/settings.
 
 ## Usage
 
 To run the tool, simply execute the script from your command line:
 
-\```bash
+```bash
 python main.py
-\```
+```
 
 Follow the on-screen prompts to enter the service name and view the cheapest prices.
 
