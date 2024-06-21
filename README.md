@@ -25,12 +25,12 @@ pip install requests colorama
 
 ## Configuration
 
-Set your SMSPool API key in the .env file:
+To get an API KEY go to https://www.smspool.net/my/settings.
+Set your SMSPool API key in the [.env](.env) file:
 
 ```
 API_KEY=key_here
 ```
-To get a API KEY go to https://www.smspool.net/my/settings.
 
 ## Usage
 
